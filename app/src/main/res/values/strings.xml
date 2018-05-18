@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Meu Aplicativo</string>
+    <string name="app_name">My App</string>
     <string name="texto">Hello!</string>
-    <string name="dica">nome</string>
+    <string name="dica">name</string>
     <string name="botao">Button</string>
+    <string name="saida"></string>
 </resources>
